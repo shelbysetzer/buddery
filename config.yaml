@@ -1,6 +1,7 @@
-title: Phantom
-baseURL: /
+---
+title: DeFi Institute
+baseURL: "/"
 params:
   none: ''
 disableKinds:
-  - RSS
+- RSS
