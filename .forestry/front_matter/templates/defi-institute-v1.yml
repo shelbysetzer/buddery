@@ -9,3 +9,11 @@ fields:
   label: Hero Image
   description: This image is for the hero image on the front page.
   hidden: false
+- name: blocks
+  type: blocks
+  label: Blocks
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: These are page blocks for creating front page sites/content
